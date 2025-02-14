@@ -1,4 +1,4 @@
-import asyncio
+ifmport asyncio
 import logging
 
 from aiogram import Bot, Dispatcher, F
